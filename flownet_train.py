@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 19 18:39:17 2021
 
-@author: SRINIVAS
+@author: MLIP
 """
 ####################################################
 #### This is the original flownet code ####
